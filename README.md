@@ -13,7 +13,12 @@ This repository is organized into twelve weeks of progressive API security learn
 - **Week 3** - OWASP Top 10 API Security (Parts 1-3)
 - **Week 4** - OWASP Top 10 API Security and Beyond (Parts 4-10)
 - **Week 5** - Comprehensive review and feedback integration
-- **Weeks 6-12** - Advanced topics and specialized security assessments *(Continuous updates)*
+- **Week 6** - API Gateway Security
+- **Week 7** - API Security & PCI DSS
+- **Week 8** - Connected Systems Security
+- **Week 9** - Intro to API Pen-Testing
+
+- **Weeks 10-12** - Advanced topics and specialized security assessments *(Continuous updates)*
 
 ## Reports
 
@@ -35,11 +40,17 @@ This repository is organized into twelve weeks of progressive API security learn
 ### Week 5
 - [Consolidated Review Report](week5/Falilat_Owolabi_week5_Report.pdf) - Integrated feedback and recommendations from CyberSafe reviewers
 
-## Weeks 6-12
+### Week 6
+- [Week 6 Report: Api gateway implementation using AWS](week6/falilat_Owolabi_Week6_Report.pdf) - Practical exercises on OAuth, JWT hardening, session management, and rate limiting.
 
-Reports for weeks 6 through 12 will be added as the training progresses. Each week will continue to build upon previous learning, covering advanced API security topics and specialized assessments.
+### Week 7
+- [Week 7 Report: Secure Coding for APIs PCI-DSS standard](week7/Falilat_Owolabi_Week7_Report.pdf) - Input validation, output encoding, parameter tampering, and secure error handling.
 
-*This section will be continuously updated throughout the 12-week training program.*
+### Week 8
+- No report uploaded, No lab assignment was given
+
+### Week 9
+- [Week 9 Report: API Penetration Testing (Zerohealth lab)](week9/falilat_Owolabi_Week9_Report.pdf) - Hands-on penetration testing using Postman, Burp Suite, and reporting templates.
 
 ## Tools & Technologies
 
@@ -58,10 +69,12 @@ The following security testing tools were utilized throughout the training:
 - OWASP Top 10 API security risks
 - Practical penetration testing techniques
 - Security testing methodologies
+- Api gateway implementation and security
+- Api penetration testing
 
 ---
 
 **Author:** Falilat Owolabi (leogold)  
 **Program:** CyberSafe API Security Training  
-**Last Updated:** January 2026
+**Last Updated:** february 2026
 
